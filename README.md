@@ -1,5 +1,7 @@
 # custom-youtube-player-with-play-speed-control-and-more-feature
-I have created this project for my requirement, which is i have to play YouTube video's and it should be shareable , should not redirect on YouTube. and it have video speed control feature.  This is angular based web app.
+I have created this project for my problems requirement, which is i have to play YouTube video's and it should not be shareable , should not redirect on YouTube. and it have make video playback speed control feature. 
+
+This is angular based web application where i am using video js player as compoent which can be use on mobile app web view and web app. for playing youtube video as private videos.
 
 #STEPS TO INSTALL AND RUN FOR THIS ANGULAR PROJECT
 1) Install node module using :- **npm install**
